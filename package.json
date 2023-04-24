@@ -1,0 +1,16 @@
+{
+  "name": "express-test",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.mjs",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "business_api_client": "../ECD/tiktok_business_api_sdk/js_sdk"
+  }
+}
